@@ -12,7 +12,7 @@ import java.util.List;
  * immutable.
  *
  * @author Ben Sampson
- * @author ***REMOVED*** ***REMOVED***
+ * @author **REMOVED**
  * @author Bassam Helal
  * @version 1.6
  */

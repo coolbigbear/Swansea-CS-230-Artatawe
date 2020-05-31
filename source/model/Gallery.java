@@ -10,7 +10,7 @@ import java.util.ArrayList;
  *
  * Note that a Gallery cannot have duplicate Auctions.
  *
- * @author ***REMOVED*** ***REMOVED***
+ * @author **REMOVED**
  * @version 1.0
  * @see Artwork
  * @see Auction

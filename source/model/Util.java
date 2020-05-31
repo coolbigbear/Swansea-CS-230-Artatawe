@@ -36,7 +36,7 @@ import java.util.Set;
 /**
  * A Utility class used mostly for reading and writing to the JSON database but also to send receive global Objects.
  *
- * @author ***REMOVED*** ***REMOVED***
+ * @author **REMOVED**
  * @author Bezhan Kodomani
  * @author Bassam Helal
  * @version 3.0

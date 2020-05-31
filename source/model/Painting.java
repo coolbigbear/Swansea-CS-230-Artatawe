@@ -7,7 +7,7 @@ package model;
  * both represented with Integers.
  *
  * @author Bassam Helal
- * @author ***REMOVED*** ***REMOVED***
+ * @author **REMOVED**
  * @version 1.1
  * @see Artwork
  */

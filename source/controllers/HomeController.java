@@ -34,7 +34,7 @@ import java.util.ResourceBundle;
  * @author Iliyan Garnev
  * @author Ben Sampson
  * @author Alex Wing
- * @author ***REMOVED*** ***REMOVED***
+ * @author **REMOVED**
  * @version 3.0
  * @see Initializable
  */

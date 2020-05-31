@@ -24,7 +24,7 @@ import java.util.regex.Pattern;
  *
  * This is the Controller and Layout pair in charge of the register page.
  *
- * @author ***REMOVED*** ***REMOVED***
+ * @author **REMOVED**
  * @version 1.2
  * @see Initializable
  */

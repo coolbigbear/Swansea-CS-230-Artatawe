@@ -30,7 +30,7 @@ import java.util.ResourceBundle;
  *
  * @author Bezhan Kodomani
  * @author Iliyan Garnev
- * @author ***REMOVED*** ***REMOVED***
+ * @author **REMOVED**
  * @author Bassam Helal
  * @version 3.0
  * @see Initializable

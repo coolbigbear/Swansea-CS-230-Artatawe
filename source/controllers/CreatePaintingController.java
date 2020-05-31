@@ -23,7 +23,7 @@ import java.util.ResourceBundle;
  *
  * This is the Controller and Layout pair in charge of the page that the user will use to create a new Painting Auction.
  *
- * @author ***REMOVED*** ***REMOVED***
+ * @author **REMOVED**
  * @version 1.1
  * @see Initializable
  * @see Auction

@@ -16,7 +16,7 @@ import java.util.Map;
  *
  * @param <T> the Type
  *
- * @author ***REMOVED*** ***REMOVED***
+ * @author **REMOVED**
  * @see com.google.gson.TypeAdapterFactory
  * @see Util
  */

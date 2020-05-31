@@ -19,7 +19,7 @@ import java.time.LocalDateTime;
  * the Auction, this Bid will not exist on the Database.
  *
  * @author Bassam Helal
- * @author ***REMOVED*** ***REMOVED***
+ * @author **REMOVED**
  * @version 1.2
  * @see Auction
  */

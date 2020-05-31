@@ -18,7 +18,7 @@ import java.util.List;
  * Note that all Bid validation is done here, not in the Bid class.
  *
  * @author Bassam Helal
- * @author ***REMOVED*** ***REMOVED***
+ * @author **REMOVED**
  * @version 1.2
  * @see Bid
  * @see Artwork

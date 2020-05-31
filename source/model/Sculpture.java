@@ -11,7 +11,7 @@ import java.util.List;
  * material, as well as a number of additional images
  *
  * @author Bassam Helal
- * @author ***REMOVED*** ***REMOVED***
+ * @author **REMOVED**
  * @version 1.1
  * @see Artwork
  */
