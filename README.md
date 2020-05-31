@@ -1,5 +1,5 @@
 # Artatawe auctioning system 
-This system works in the same way as ebay but with a twist. The auctions have a set amount of bids, when those run out the last bid is the winnder of that auction.
+This system works in the same way as ebay but with a twist. The auctions have a set amount of bids, when those run out the last bid is the winner of that auction.
 
 This project was created for the module CS-230 at Swansea University. This is a group project which I was a part of.
 
